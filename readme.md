@@ -1,6 +1,4 @@
-Aqui está o markdown atualizado com as sugestões de variações e fórmulas mais complexas aplicadas ao código:
 
----
 
 # Código de Criptografia e Descriptografia
 
